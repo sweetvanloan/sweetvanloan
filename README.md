@@ -1,6 +1,5 @@
 ### Hi, my name is Sweet 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... 
   1. Revamping my coding education project into Django
