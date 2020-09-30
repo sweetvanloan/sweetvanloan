@@ -1,5 +1,5 @@
 ### Hi, my name is Sweet 👋
-
+I am a passionate software developer, excited to share my skills to create accessible, useful, and dynammic code. 
 
 - 🔭 I’m currently working on ... 
   1. Revamping my coding education project into Django
