@@ -29,7 +29,7 @@ I am a passionate software developer, excited to share my skills to create acces
 2. email me - sweet@sweetvanloan.com
 
 - 😄 Pronouns: ...
-* She/Her/Hers
+She/Her/Hers
 
 - ⚡ Fun fact: ...
 1. Authored 51+ published works
