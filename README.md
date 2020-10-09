@@ -1,14 +1,16 @@
 ### Hi, my name is Sweet 👋
-I am a passionate software developer, excited to share my skills to create accessible, useful, and dynammic code. 
+I am a passionate software developer, excited to share my skills to create accessible, useful, and dynammic code. With a background in creative and performance arts, as well as SEL Education, I am driven to build teams and mentor. 
 
 - 🔭 I’m currently working on ... 
   1. Revamping my coding education project into Django
   2. Portfolio
-  3. Networking Projects.
+  3. Networking Projects
+  4. Coding Teaching Platform
   
   
 - 🌱 I’m currently learning ...
 1.  Python/Django
+2. Gatsby
 
 - 👯 I’m looking to collaborate on ...
 1. Game Devs
