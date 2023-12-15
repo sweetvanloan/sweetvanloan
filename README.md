@@ -1,44 +1,48 @@
-### Hi, my name is Sweet 👋
-I am a passionate software developer, excited to share my skills to create accessible, useful, and dynammic code. With a background in creative and performance arts, as well as SEL Education, I am driven to build teams and mentor. 
+### Welcome to My World! - Sweet Van Loan 🌟
 
-- 🔭 I’m currently working on ... 
-  1. Revamping my coding education project into Django
-  2. Portfolio
-  3. Networking Projects
-  4. Coding Teaching Platform
-  
-  
-- 🌱 I’m currently learning ...
-1.  Python/Django
-2. Gatsby
+Hello! I'm Sweet, a dynamic and passionate software developer with a flair for blending creativity with technology. My journey is unique, rooted in creative and performance arts, DEI (Diversity Equity and Inclusion) Initiatives, and Social and Emotional Learning (SEL) education. This background fuels my commitment to teamwork, mentorship, and building accessible, engaging tech solutions.
 
-- 👯 I’m looking to collaborate on ...
-1. Game Devs
-2. High Impact/Non-profit Work
-3. Uplifting unrespresented groups in tech
+**What's Cooking in My Code Lab:**
+- 🚀 **Current Projects:**
+  - Crafting innovative solutions in Python, C++, and Ruby.
+  - Developing a robust professional portfolio.
+  - Exploring the realms of networking projects.
+  - Creating an engaging coding education platform.
 
-- 🤔 I’m looking for help with ...
-1. Gatsby
+**Expanding My Tech Horizons:**
+- 🌿 **Ongoing Learning:**
+  - Delving into Python/Django for versatile web development.
+  - Mastering Gatsby for blazing-fast websites.
 
-- 💬 Ask me about ...
-1. Educational Resources
-2. Creative Industries 
-3. Bootcamps
-4. Networking
+**Joining Forces for a Better Tomorrow:**
+- 💡 **Collaboration Opportunities:**
+  - Innovating in the game development arena.
+  - Contributing to high-impact, non-profit initiatives.
+  - Championing underrepresented groups in the tech industry.
 
-- 📫 How to reach me: ...
-1. Find me on Twitter - @sweetvanloan
-2. email me - sweet@sweetvanloan.com
+**Seeking Wisdom and Connections:**
+- 🤔 **In Need of Insight:**
+  - Navigating the intricacies of Gatsby.
 
-- 😄 Pronouns: ...
-She/Her/Hers
+**A Conversation Starter:**
+- 💬 **Let's Talk About:**
+  - Educational tools and resources.
+  - The intersection of creative industries and technology.
+  - Navigating the journey through bootcamps.
+  - The art of effective networking.
 
-- ⚡ Fun fact: ...
-1. Authored 51+ published works
-2. Theatre Education Expert
-3. Big Comic Nerd
-4. Big Sci-Fi Nerd
-5. Has been in love with actor John Wesley Shipp since I was 5
-6. Cosplay as a hobby
+**Get in Touch:**
+- 📬 **Reach Out:**
+  - Tweet me: [@sweetvanloan](https://twitter.com/sweetvanloan)
+  - Email: [sweet@sweetvanloan.com](mailto:sweet@sweetvanloan.com)
 
+**A Glimpse Into Who I Am:**
+- 😊 **Pronouns:** She/Her/Hers
+- ⚡ **Fun Facts:**
+  - Author of 51+ published works.
+  - Theatre education aficionado.
+  - Avid comic and sci-fi enthusiast.
+  - Lifelong admirer of actor John Wesley Shipp.
+  - Cosplay enthusiast, blending creativity and fandom.
 
+Ready to embark on this journey? Let's connect and create something extraordinary! 🌈✨
