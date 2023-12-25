@@ -12,6 +12,7 @@ Hello! I'm Sweet, a dynamic and passionate software developer with a flair for b
 **Expanding My Tech Horizons:**
 - 🌿 **Ongoing Learning:**
   - Delving into Python/Django for versatile web development.
+  - Learning AI
   - Mastering Gatsby for blazing-fast websites.
 
 **Joining Forces for a Better Tomorrow:**
