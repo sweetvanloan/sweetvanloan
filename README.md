@@ -4,7 +4,7 @@ Hello! I'm Sweet, a dynamic and passionate software developer with a flair for b
 
 **What's Cooking in My Code Lab:**
 - 🚀 **Current Projects:**
-  - Crafting innovative solutions in Python, C++, and Ruby.
+  - Crafting innovative solutions in JavaScript, Python, C++, and Ruby.
   - Developing a robust professional portfolio.
   - Exploring the realms of networking projects.
   - Creating an engaging coding education platform.
