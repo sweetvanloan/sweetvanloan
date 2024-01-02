@@ -1,6 +1,6 @@
 ### Welcome to My World! Sweet Van Loan 🌟
 
-Hello! I'm Sweet, a dynamic and passionate software developer with a flair for blending creativity with technology. My journey is unique, rooted in creative and performance arts, DEI (Diversity Equity and Inclusion) Initiatives, and Social and Emotional Learning (SEL) education. This background fuels my commitment to teamwork, mentorship, and building accessible, engaging tech solutions.
+Hello! I'm Sweet, a dynamic and passionate software developer with a flair for blending creativity with technology. My journey is unique, rooted in creative and performance arts, DEI (Diversity Equity and Inclusion) Initiatives, and Social and Emotional Learning (SEL) education, as well as management of teams. This background fuels my commitment to teamwork, mentorship, and building accessible, engaging tech solutions.
 
 **What's Cooking in My Code Lab:**
 - 🚀 **Current Projects:**
