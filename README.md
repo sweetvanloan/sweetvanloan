@@ -4,7 +4,6 @@
 Hello! I'm Sweet, a dynamic and passionate software developer with a flair for blending creativity with technology. My journey is unique, rooted in creative and performance arts, DEI (Diversity Equity and Inclusion) Initiatives, and Social and Emotional Learning (SEL) education, as well as the management of teams. This background fuels my commitment to teamwork, mentorship, and building accessible, engaging tech solutions.
 
 **Currently Open to New Opportunities**
-*Happy New Year*
 
 **What's Cooking in My Code Lab:**
 - 🚀 **Current Projects:**
