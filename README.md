@@ -28,6 +28,7 @@ Hello! I'm Sweet, a dynamic and passionate software developer with a flair for b
 **Seeking Wisdom and Connections:**
 - 🤔 **In Need of Insight:**
   - Navigating the intricacies of Gatsby.
+  - Networking
 
 **A Conversation Starter:**
 - 💬 **Let's Talk About:**
