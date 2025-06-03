@@ -45,7 +45,7 @@ Hello! My name is Sweet, a dynamic and passionate software developer with a flai
 **A Glimpse Into Who I Am:**
 - 😊 **Pronouns:** She/Her/Hers
 - ⚡ **Fun Facts:**
-  - Author of 51+ published works.
+  - Author of + published works.
   - Theatre education aficionado.
   - Avid comic and sci-fi enthusiast.
   - Lifelong admirer of actor John Wesley Shipp.
