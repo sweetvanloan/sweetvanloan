@@ -1,54 +1,44 @@
-### Sweet Van Loan 🌟
-### Welcome to My World! 
-**Coder, Performer, Author, Educator, Mixologist, Advocate**
- 
-Hello! My name is Sweet, a dynamic and passionate software developer with a flair for blending creativity with technology. My journey is unique, rooted in creative and performance arts, DEI (Diversity Equity and Inclusion) Initiatives, and Social and Emotional Learning (SEL) education, as well as the management of teams. This background fuels my commitment to teamwork, mentorship, and building accessible, engaging tech solutions!  
+# 🌟 Sweet Van Loan (She/Her)  
+### Instructional Designer | Coder | Creative Technologist | Advocate  
 
-**Open to New Opportunities**  
+Hi, I’m **Sweet Van Loan** — a dynamic **Instructional Designer, eLearning Developer, and Creative Technologist** with 10+ years of experience blending **arts, education, and technology** into meaningful digital learning solutions.  
 
-**What's Cooking in My Code Lab:**
-- 🚀 **Current Projects:**
-  - Crafting innovative solutions in JavaScript, Python, C++, and Ruby.
-  - Developing a robust professional portfolio.
-  - Exploring the realms of networking projects.
-  - Creating an engaging coding education platform.
+With roots in **theatre, performance, and DEI-focused education**, I bring a **human-centered approach** to software development and instructional design. I build **accessible, engaging, and inclusive tech solutions** that empower learners, uplift communities, and drive innovation.  
 
-**Expanding My Tech Horizons:**
-- 🌿 **Ongoing Learning:**
-  - Delving into Python/Django for versatile web development.
-  - Learning AI
-  - Mastering Gatsby for blazing-fast websites.
+---
 
-**Joining Forces for a Better Tomorrow:**
-- 💡 **Collaboration Opportunities:**
-  - Innovating in the game development arena.
-  - Contributing to high-impact, non-profit initiatives.
-  - Championing underrepresented groups in the tech industry.
+## 🚀 What I’m Working On
+- Designing **interactive, gamified eLearning** with Storyline, Rise, and Canvas  
+- Developing **web projects** with Python, JavaScript, and HTML/CSS  
+- Exploring **AI tools** for education and workforce development  
+- Creating **community-driven coding + creative projects**  
 
-**Seeking Wisdom and Connections:**
-- 🤔 **In Need of Insight:**
-  - Navigating the intricacies of Gatsby.
-  - Networking
+---
 
-**A Conversation Starter:**
-- 💬 **Let's Talk About:**
-  - Educational tools and resources.
-  - The intersection of creative industries and technology.
-  - Navigating the journey through bootcamps.
-  - The art of effective networking.
+## 🌱 Always Learning
+- Expanding expertise in **Django & full-stack development**  
+- Deepening skills in **accessibility (WCAG/508)** & **inclusive UX**  
+- Building on certifications in **Web Development, Programming Foundations, and SEL frameworks**  
 
-**Get in Touch:**
-- 📬 **Reach Out:**
-  - Tweet me: [@sweetvanloan](https://twitter.com/sweetvanloan)
-  - Email: [sweet@sweetvanloan.com](mailto:sweet@sweetvanloan.com)
+---
 
-**A Glimpse Into Who I Am:**
-- 😊 **Pronouns:** She/Her/Hers
-- ⚡ **Fun Facts:**
-  - Author of + published works.
-  - Theatre education aficionado.
-  - Avid comic and sci-fi enthusiast.
-  - Lifelong admirer of actor John Wesley Shipp.
-  - Cosplay enthusiast, blending creativity and fandom.
+## 💡 Let’s Collaborate
+- **EdTech & Instructional Design projects** (remote/contract/full-time)  
+- **Diversity & accessibility initiatives** in tech and education  
+- **Game development, creative coding, and AI tools**  
 
-Ready to embark on this journey? Let's connect and create something extraordinary! 🌈✨
+---
+
+## 🔑 Keywords for Recruiters
+**Instructional Design | eLearning | LMS | Accessibility | Python | JavaScript | HTML/CSS | Curriculum Development | Remote Work | Gamification | Virtual Training | Social Justice | DEI | Youth Development | Creative Arts & Technology | EdTech**  
+
+---
+
+## 📬 Get in Touch
+- [LinkedIn](https://www.linkedin.com/in/sweetvanloan)  
+- [Email](mailto:sweet@sweetvanloan.com)  
+
+
+---
+
+⚡ **Fun Facts**: Published author & playwright • Comic book and sci-fi fan • Lifelong learner • Advocate for inclusive tech • Licensed mixologist 🍹  
