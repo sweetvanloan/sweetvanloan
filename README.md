@@ -29,7 +29,7 @@ With roots in **theatre, performance, and DEI-focused education**, I bring a **h
 
 ---
 
-## 🔑 Keywords for Recruiters
+## 🔑 Keywords 
 **Instructional Design | eLearning | LMS | Accessibility | Python | JavaScript | HTML/CSS | Curriculum Development | Remote Work | Gamification | Virtual Training | Social Justice | DEI | Youth Development | Creative Arts & Technology | EdTech**  
 
 ---
